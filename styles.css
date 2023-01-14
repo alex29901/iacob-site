@@ -1,0 +1,47 @@
+body {
+    background-color: #1F2937;
+}
+a {
+    text-decoration: none;
+}
+
+
+.linkuri {
+    display: flex;
+    font-size: 20px;
+    gap: 15px;
+    color: antiquewhite;
+    margin-left: 880px;
+
+}
+
+#nume {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.text {
+    font-size: 23px;
+    margin-top: 150px;
+    text-align: center;
+    color:blanchedalmond;
+}
+
+#liceu {
+    width: 500px;
+    height: 500px;
+    
+}
+
+#ping,
+#fotbal {
+
+    width: 500px;
+    height: 500px;
+}
